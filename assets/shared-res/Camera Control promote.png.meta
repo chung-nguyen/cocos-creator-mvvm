@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "aae87efa-79dd-461e-a4df-e904d91ee44e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "aae87efa-79dd-461e-a4df-e904d91ee44e@6c48a",
+      "displayName": "Camera Control promote",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aae87efa-79dd-461e-a4df-e904d91ee44e",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "aae87efa-79dd-461e-a4df-e904d91ee44e@f9941",
+      "displayName": "Camera Control promote",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 17.5,
+        "offsetY": 3,
+        "trimX": 149,
+        "trimY": 147,
+        "width": 1069,
+        "height": 550,
+        "rawWidth": 1332,
+        "rawHeight": 850,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -534.5,
+            -275,
+            0,
+            534.5,
+            -275,
+            0,
+            -534.5,
+            275,
+            0,
+            534.5,
+            275,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            149,
+            703,
+            1218,
+            703,
+            149,
+            153,
+            1218,
+            153
+          ],
+          "nuv": [
+            0.11186186186186187,
+            0.18,
+            0.9144144144144144,
+            0.18,
+            0.11186186186186187,
+            0.8270588235294117,
+            0.9144144144144144,
+            0.8270588235294117
+          ],
+          "minPos": [
+            -534.5,
+            -275,
+            0
+          ],
+          "maxPos": [
+            534.5,
+            275,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "aae87efa-79dd-461e-a4df-e904d91ee44e@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "aae87efa-79dd-461e-a4df-e904d91ee44e@f9941"
+  }
+}

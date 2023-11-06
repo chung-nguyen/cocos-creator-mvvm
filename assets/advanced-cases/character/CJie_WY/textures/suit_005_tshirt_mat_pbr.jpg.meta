@@ -1,0 +1,42 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae",
+  "files": [
+    ".jpg",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae@6c48a",
+      "displayName": "suit_005_tshirt_mat_pbr",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": false,
+    "type": "texture",
+    "redirect": "65334d0f-2fd7-442e-8b88-1f43f20dc5ae@6c48a"
+  }
+}

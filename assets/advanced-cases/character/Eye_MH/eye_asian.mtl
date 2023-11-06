@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "f0475923-826e-45dc-85cc-b5d9c2b220e9",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_NORMAL_MAP": true,
+      "USE_IRIS_REFRACTION": true,
+      "USE_IRIS_CAUSTICS": true,
+      "USE_IRIS_CAUSTICS_RANGE": true
+    },
+    {},
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "roughness": 0.06,
+      "mainTexture": {
+        "__uuid__": "abd87bea-9fe0-4445-b6c6-4361ed43833d@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "normalMap": {
+        "__uuid__": "0070ed06-05cb-45cf-9473-15e4a2a8eb02@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisGradientMap": {
+        "__uuid__": "6ba85702-92d1-4bf9-bc51-20e91723869c@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisColorMaskMap": {
+        "__uuid__": "d33f516a-5844-46f8-b6a6-df78c5978de5@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "veinsColorMap": {
+        "__uuid__": "2dbbeb2c-55c3-40ed-92a7-7e34198eb29a@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisNormalMap": {
+        "__uuid__": "ccf992e0-1a0b-44ce-b0f4-d564f2dff6c3@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisHeightMap": {
+        "__uuid__": "ac3ea641-a51b-4779-92c7-28869303d7be@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisHeightMapAlpha": {
+        "__uuid__": "ac3ea641-a51b-4779-92c7-28869303d7be@2a309@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "irisHeightScale": 0.4,
+      "irisScale": 0.455,
+      "pupilScale": 1.04,
+      "veinsBleeding": 2,
+      "scleraBright": 0.831,
+      "causticsPosition": 0.28,
+      "causticsWidth": 0.274
+    },
+    {},
+    {},
+    {},
+    {}
+  ]
+}

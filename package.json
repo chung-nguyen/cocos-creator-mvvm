@@ -1,0 +1,13 @@
+{
+  "creator": {
+    "version": "3.8.1",
+    "dependencies": {},
+    "registry": {
+      "remote": {}
+    }
+  },
+  "name": "NewProject",
+  "uuid": "7732f07b-2608-446e-90f4-45e650dd806b",
+  "version": "3.6.1",
+  "_sourceId": "cb08068e-a967-4ef4-b4d4-b4fd8d24334c"
+}

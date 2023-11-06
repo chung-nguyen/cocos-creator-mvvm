@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "472c676f-9f77-4c8d-b550-17825aa0176b",
+    "__expectedType__": "cc.EffectAsset"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_BACK_LIT": true,
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true,
+      "USE_PBR_MAP": true
+    },
+    {},
+    {},
+    {}
+  ],
+  "_states": [
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    },
+    {
+      "rasterizerState": {},
+      "depthStencilState": {},
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      }
+    }
+  ],
+  "_props": [
+    {
+      "roughness": 1,
+      "specularIntensity": 0.064,
+      "mainTexture": {
+        "__uuid__": "160eac57-fc3a-40fe-bf3b-309a9a4fc5a0@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "normalMap": {
+        "__uuid__": "28b710a4-09ac-49de-acd9-b26466c0c3ea@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "pbrMap": {
+        "__uuid__": "5a0bdf47-cab4-4dfd-9a0b-502301f263be@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "preIntegratedSkinMap": {
+        "__uuid__": "b078dcad-656d-4ba3-b76e-70c88e63e045@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "sssCurvature": 0.149,
+      "cavityMap": {
+        "__uuid__": "b8a1f0a5-77fe-4c90-a848-8db5a47ee56e@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "maskMap": {
+        "__uuid__": "08d07f7b-341a-4095-b32f-abe34af064d7@6c48a",
+        "__expectedType__": "cc.Texture2D"
+      },
+      "extinction": 2.432
+    },
+    {},
+    {},
+    {}
+  ]
+}
